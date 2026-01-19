@@ -139,6 +139,7 @@ nav a:hover {
 .cards-container {
     display: flex;
     justify-content: center;
+    padding-bottom: 168px;
     gap: 30px;
     max-width: 1110px;
     margin: 0 auto;
